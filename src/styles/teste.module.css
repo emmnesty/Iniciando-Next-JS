@@ -1,0 +1,9 @@
+.CorDeFundo {
+    background-color: #363434;
+    height: 100vh;
+} 
+
+.CorDeFundo h1 {
+    padding: 0;
+    margin: 0;
+}
